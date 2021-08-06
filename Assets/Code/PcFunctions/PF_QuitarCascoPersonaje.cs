@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PF_QuitarCascoPersonaje
 {
-    public void QuitarCasco(Cl_Personaje personaje, Gb_Player player)
+    public void QuitarCascoPersonaje(Cl_Personaje personaje, Gb_Player player)
     {
         Cl_Armadura cabeza = personaje.casco;
 

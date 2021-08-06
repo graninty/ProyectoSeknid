@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: Player
   m_EditorClassIdentifier: 
   personajes:
-  - nombre: 
+  - nombre: pedro
     casco:
       id: 0
       nombre: 
       ubicacion: 0
       tipo: 0
+      calidad: 0
+      encantamientos: 
       descrippcion: 
       valor: 0
       valorVenta: 0
@@ -37,6 +39,8 @@ MonoBehaviour:
       nombre: 
       ubicacion: 0
       tipo: 0
+      calidad: 0
+      encantamientos: 
       descrippcion: 
       valor: 0
       valorVenta: 0
@@ -55,6 +59,8 @@ MonoBehaviour:
       nombre: 
       ubicacion: 0
       tipo: 0
+      calidad: 0
+      encantamientos: 
       descrippcion: 
       valor: 0
       valorVenta: 0
@@ -73,6 +79,8 @@ MonoBehaviour:
       nombre: 
       ubicacion: 0
       tipo: 0
+      calidad: 0
+      encantamientos: 
       descrippcion: 
       valor: 0
       valorVenta: 0
@@ -91,6 +99,8 @@ MonoBehaviour:
       nombre: 
       ubicacion: 0
       tipo: 0
+      calidad: 0
+      encantamientos: 
       descrippcion: 
       valor: 0
       valorVenta: 0
@@ -109,6 +119,8 @@ MonoBehaviour:
       nombre: 
       ubicacion: 0
       tipo: 0
+      calidad: 0
+      encantamientos: 
       descrippcion: 
       valor: 0
       valorVenta: 0
@@ -127,6 +139,8 @@ MonoBehaviour:
       nombre: 
       ubicacion: 0
       tipo: 0
+      calidad: 0
+      encantamientos: 
       descrippcion: 
       valor: 0
       valorVenta: 0
@@ -140,8 +154,8 @@ MonoBehaviour:
       aumentoHP: 0
       aumentoMP: 0
       icon: {fileID: 0}
-    HP: 0
-    MP: 0
+    HP: 10
+    MP: 10
     clase1:
       ID: 0
       nombre: 
@@ -188,5 +202,45 @@ MonoBehaviour:
         opcion5: []
     deck1: []
     deck2: []
-  Armaduras: []
+    avatar: {fileID: 0}
+    character: {fileID: 0}
+  Armaduras:
+  - id: 1
+    nombre: cascoprueba
+    ubicacion: 0
+    tipo: 0
+    calidad: 0
+    encantamientos: 
+    descrippcion: 
+    valor: 0
+    valorVenta: 0
+    defensaFisica: 0
+    defensaMagica: 0
+    defCorte: 0
+    defContundente: 0
+    defPunzante: 0
+    defExposicion: 0
+    defDrenaje: 0
+    aumentoHP: 0
+    aumentoMP: 0
+    icon: {fileID: 21300000, guid: bdf68c4fdae4e384988e98dbb8f51e71, type: 3}
+  - id: 2
+    nombre: pantalonprueba
+    ubicacion: 2
+    tipo: 1
+    calidad: 1
+    encantamientos: 
+    descrippcion: 
+    valor: 0
+    valorVenta: 0
+    defensaFisica: 0
+    defensaMagica: 0
+    defCorte: 0
+    defContundente: 0
+    defPunzante: 0
+    defExposicion: 0
+    defDrenaje: 0
+    aumentoHP: 0
+    aumentoMP: 0
+    icon: {fileID: 21300000, guid: bdf68c4fdae4e384988e98dbb8f51e71, type: 3}
   alik: 0

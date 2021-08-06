@@ -9,6 +9,8 @@ public class Cl_Armadura
     public string nombre;
     public UbicacionArmadura ubicacion;
     public TipoArmadura tipo;
+    public ArmaduraCalidad calidad;
+    public List<int> encantamientos = new List<int>();
     public string descrippcion;
     public int valor;
     public int valorVenta;

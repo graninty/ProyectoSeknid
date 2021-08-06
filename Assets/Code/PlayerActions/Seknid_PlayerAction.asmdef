@@ -1,0 +1,18 @@
+{
+    "name": "Seknid_PlayerAction",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4fa41c4870f0fb44b8e8e983c6983f94",
+        "GUID:752fe3cdc1f5ef140ba9d61758d2e3de",
+        "GUID:da3667ed8973bd84a80c390b419b17e9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

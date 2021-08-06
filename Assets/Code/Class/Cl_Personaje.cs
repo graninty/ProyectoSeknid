@@ -22,23 +22,22 @@ public class Cl_Personaje
     public Sprite avatar;
     public Sprite character;
 
-    public void PonerCasco(Cl_Armadura armadura, Gb_Player player)
+    public void PonerCasco(Cl_Armadura armadura)
     {
         if (armadura.ubicacion == UbicacionArmadura.CABEZA)
         {
             if (casco != null)
             {
-                SacarCasco(player);
+                SacarCasco();
             }
             casco = armadura;
         }
     }
 
-    public void SacarCasco(Gb_Player player)
+    public void SacarCasco()
     {
         if (casco != null)
         {
-            player.Armaduras.Add(casco);
             casco = null;
         }
     }

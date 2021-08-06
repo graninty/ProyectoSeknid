@@ -1,0 +1,16 @@
+{
+    "name": "Seknid_Gb_Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:752fe3cdc1f5ef140ba9d61758d2e3de"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

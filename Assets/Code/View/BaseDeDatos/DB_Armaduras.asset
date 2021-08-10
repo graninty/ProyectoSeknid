@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bfc4cbe32c6dca468459d63754ac78f, type: 3}
+  m_Name: DB_Armaduras
+  m_EditorClassIdentifier: 
+  Armaduras:
+  - id: 1
+    nombre: 
+    ubicacion: 0
+    tipo: 0
+    descrippcion: 
+    valor: 0
+    valorVenta: 0
+    defensaFisica: 0
+    defensaMagica: 0
+    defCorte: 0
+    defContundente: 0
+    defPunzante: 0
+    defExposicion: 0
+    defDrenaje: 0
+    aumentoHP: 0
+    aumentoMP: 0
+    icon: {fileID: 0}
+    encantamientos: 
+    calidad: 0

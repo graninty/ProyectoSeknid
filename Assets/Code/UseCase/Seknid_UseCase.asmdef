@@ -1,0 +1,16 @@
+{
+    "name": "Seknid_UseCase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cde7b9c1d52227a478ab483fdc2a5092"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
